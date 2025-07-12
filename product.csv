@@ -1,0 +1,6 @@
+Product,Price,Available,DiscountPrice,PriceLable,Category
+Pen,10,True,9.0,Cheap,Stationery
+Pencil,5,True,4.5,Cheap,Stationery
+Notebook,50,False,45.0,Expensive,Notebook
+Eraser,3,True,2.7,Cheap,Stationery
+Marker,0,True,,,Stationery
